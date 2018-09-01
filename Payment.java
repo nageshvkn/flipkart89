@@ -1,2 +1,1 @@
-sljfs
-
+public class Pay
