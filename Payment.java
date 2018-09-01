@@ -1,1 +1,4 @@
-public class Pay
+xpublic class Pay
+{
+	System.out.println("Hello world!")
+}
